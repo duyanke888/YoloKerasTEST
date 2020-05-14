@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ZUXWXSYFB</folder>
+	<filename>1510136084151updataHbimage.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\5651\ZUXWXSYFB\1510136084151updataHbimage.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ZUXWXSYFB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>34</ymin>
+			<xmax>136</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+</annotation>

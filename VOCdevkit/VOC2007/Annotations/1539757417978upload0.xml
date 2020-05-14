@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ZUXTSFB</folder>
+	<filename>1539757417978upload0.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\5651\ZUXTSFB\1539757417978upload0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1984</width>
+		<height>1488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ZUXTSFB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>265</xmin>
+			<ymin>264</ymin>
+			<xmax>1889</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>

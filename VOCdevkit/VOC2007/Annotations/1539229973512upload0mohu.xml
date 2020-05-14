@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ZAZXCMAB</folder>
+	<filename>1539229973512upload0mohu.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\5651\ZAZXCMAB\1539229973512upload0mohu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1632</width>
+		<height>1224</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ZAZXCMAB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>667</xmin>
+			<ymin>590</ymin>
+			<xmax>963</xmax>
+			<ymax>919</ymax>
+		</bndbox>
+	</object>
+</annotation>

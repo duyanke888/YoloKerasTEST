@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ZUXJZPMFB</folder>
+	<filename>1496549009918upload0.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\5651\ZUXJZPMFB\1496549009918upload0.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1728</width>
+		<height>2304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ZUXJZPMFB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>743</xmin>
+			<ymin>1034</ymin>
+			<xmax>965</xmax>
+			<ymax>1444</ymax>
+		</bndbox>
+	</object>
+</annotation>

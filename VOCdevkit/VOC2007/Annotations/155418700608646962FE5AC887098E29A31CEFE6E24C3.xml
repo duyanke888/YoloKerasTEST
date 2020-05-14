@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ZUXWXSYFB</folder>
+	<filename>155418700608646962FE5AC887098E29A31CEFE6E24C3.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\5651\ZUXWXSYFB\155418700608646962FE5AC887098E29A31CEFE6E24C3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ZUXWXSYFB</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>1</ymin>
+			<xmax>474</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1492698177842upload0.jpg 133,81,916,1632,3
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1530431656561-34414780c152b721.jpg 252,160,435,647,3
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1537579677110upload0.jpg 754,390,898,636,1
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1539309915296upload0.jpg 349,620,499,895,1
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1539684866989upload0.jpg 568,672,912,1489,3
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1539914520228upload0.jpg 347,693,519,1013,1
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1542196527306upload0.jpg 180,160,358,594,3
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1543031945715upload0.jpg 528,390,1358,861,2
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1550403983685upload0.jpg 217,335,284,448,1
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1552547812162upload0.jpg 546,584,670,859,3
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1552547855115upload0.jpg 351,597,464,855,3
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1552974190582upload0zaosheng.jpg 1421,469,1462,506,0
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1555126166194upload0.jpg 651,572,928,1172,3
+F:\yolov3\yolovoc\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/1556533069236upload0.jpg 271,470,485,972,3

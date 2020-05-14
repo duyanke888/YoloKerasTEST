@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ZXJXFB</folder>
+	<filename>1545534643052upload0zaosheng.jpg</filename>
+	<path>D:\BaiduNetdiskDownload\5651\ZXJXFB\1545534643052upload0zaosheng.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1224</width>
+		<height>1632</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ZXJXFB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>236</ymin>
+			<xmax>852</xmax>
+			<ymax>1084</ymax>
+		</bndbox>
+	</object>
+</annotation>
